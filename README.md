@@ -1,4 +1,6 @@
-## Hi there 👋
+## WIP
+
+#Currently migrating from my Student account to a new professional account
 
 <!--
 **DBT971/DBT971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
