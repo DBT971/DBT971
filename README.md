@@ -1,6 +1,6 @@
 ## WIP
 
-#Currently migrating from my Student account to a new professional account
+Currently migrating from my Student account to a new professional account
 
 **Any repository marked *STUDENT_* is code written during my university days**
 
